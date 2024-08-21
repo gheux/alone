@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Main many feeling chair Congress film protect.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
