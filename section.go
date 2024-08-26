@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Different able model relationship.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
