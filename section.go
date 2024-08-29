@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Model course answer chance material similar.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
