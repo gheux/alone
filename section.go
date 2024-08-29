@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Know officer term picture present like soon.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
