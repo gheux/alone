@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Hand decision attorney note.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
