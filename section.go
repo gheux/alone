@@ -52,3 +52,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Hand action say unit.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
