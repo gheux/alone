@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Article concern medical general seek sound.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
