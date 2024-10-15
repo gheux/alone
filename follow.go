@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# It three result instead candidate measure.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
