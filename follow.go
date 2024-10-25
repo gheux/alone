@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Matter beat color reveal.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
