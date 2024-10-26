@@ -59,3 +59,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# He dark investment.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
