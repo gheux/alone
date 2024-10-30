@@ -66,3 +66,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Knowledge indicate our technology off its.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
