@@ -73,3 +73,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Garden pass represent have think price.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
