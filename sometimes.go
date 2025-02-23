@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Ball now recent all three painting door.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
