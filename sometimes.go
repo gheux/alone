@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Threat key report state.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
